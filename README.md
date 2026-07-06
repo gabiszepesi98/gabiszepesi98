@@ -1,16 +1,50 @@
-## Hi there 👋
+# 🧬 Hi, I'm Gabriella Szepesi> 👩‍🔬
 
-<!--
-**gabiszepesi98/gabiszepesi98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "Turning biological chaos into structured data."
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🧫 Bioinformatics | Spatial transcriptomics | Differentially expressed genes and pathways
+- ⚙️ NanoString Geomx
+- 🧠 Interested in Spatial Transcriptomics + AI
+- 🇭🇺 Based in Budapest
+
+---
+
+## 🛰️ Social Media
+
+- 🔗 [LinkedIn](https://linkedin.com/in/YOURNAME)
+- 🧪 [ResearchGate](https://www.researchgate.net/profile/YOURNAME)
+- 🧬 [ORCID](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+- 🏢 [Lab/Company](https://www.hcemm.eu/teams/your-team)
+- 📺 [YouTube](https://youtube.com/YOURCHANNEL)
+
+---
+
+## 📚 Selected Publications
+
+- 🧾 
+
+- 🧾 
+
+---
+
+## 🧪 Featured Projects
+
+- 📈 
+- 📜 
+- 📊 
+- 🐶 
+
+---
+
+## 🧑‍🔬 Research Interests
+
+
+---
+
+## </> Coding Activity
+
+[![My GitHub stats](https://github-stats-extended.vercel.app/api?username=gabiszepesi98)](https://github.com/stats-organization/github-stats-extended)
